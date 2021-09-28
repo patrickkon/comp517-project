@@ -55,8 +55,8 @@ process early and to solicit feedback from me.
 
 Research Focus Statement: 
 
-  - I am studying the architecture of the Firecracker VMM and building a Rust kernel from scratch
-  - because I want to reason about the technicalities involved in building a kernel that can be integrated with Firecracker 
+  - I am studying the architecture of the Firecracker VMM and building a Rust kernel from scratch...
+  - because I want to reason about the technicalities involved in building a kernel that can be integrated with Firecracker... 
   - in order to show my readers a detailed comparison between the current kernel being used in AWS Lambda and our implementation, and how they can build upon our work. 
 
 Team Name: RustyRiceOS
@@ -66,8 +66,8 @@ Team Member:
   - Rice ID: pk37
 
 Team Member: 
-  - Name: 
-  - Rice ID:
+  - Name: Jason Ludmir
+  - Rice ID: jzl2
   
 Team Member: 
   - Name:
