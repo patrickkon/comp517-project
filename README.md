@@ -55,19 +55,18 @@ process early and to solicit feedback from me.
 
 Research Focus Statement: 
 
-  - I am studying [topic]
-  - because I want to [what you want to explore]
-  - in order to show my readers [something you want to show
-    them]
+  - I am studying the architecture of the Firecracker VMM and building a Rust kernel from scratch
+  - because I want to reason about the technicalities involved in building a kernel that can be integrated with Firecracker 
+  - in order to show my readers a detailed comparison between the current kernel being used in AWS Lambda and our implementation, and how they can build upon our work. 
 
 Team Name:
 
 Team Member: 
-  - Name:
-  - Rice ID:
+  - Name: Patrick Tser Jern Kon
+  - Rice ID: pk37
 
 Team Member: 
-  - Name:
+  - Name: 
   - Rice ID:
   
 Team Member: 
