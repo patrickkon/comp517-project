@@ -70,8 +70,8 @@ Team Member:
   - Rice ID: jzl2
   
 Team Member: 
-  - Name:
-  - Rice ID:
+  - Name: Zhiwei Liang
+  - Rice ID: zl104
 
 ## Turning in Instructions
 
