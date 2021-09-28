@@ -66,8 +66,8 @@ Team Member:
   - Rice ID: pk37
 
 Team Member: 
-  - Name: 
-  - Rice ID:
+  - Name: Jason Ludmir
+  - Rice ID: jzl2
   
 Team Member: 
   - Name:
