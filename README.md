@@ -59,7 +59,7 @@ Research Focus Statement:
   - because I want to reason about the technicalities involved in building a kernel that can be integrated with Firecracker 
   - in order to show my readers a detailed comparison between the current kernel being used in AWS Lambda and our implementation, and how they can build upon our work. 
 
-Team Name:
+Team Name: RustyOS
 
 Team Member: 
   - Name: Patrick Tser Jern Kon
